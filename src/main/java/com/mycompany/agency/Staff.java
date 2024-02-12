@@ -13,6 +13,7 @@ public class Staff
     public Staff()
     {
         staffList = new StaffMember[6];
+        hhhhh
 
         // TODO 1: Add 6 emploees to the staffList
 
