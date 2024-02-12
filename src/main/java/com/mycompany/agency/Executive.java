@@ -9,6 +9,7 @@ public class Executive
     //-----------------------------------------------------------------
     //  Constructor: Sets up this executive with the specified
     //  information.
+    i change thud
     //-----------------------------------------------------------------
     public Executive(String eName, String eAddress, String ePhone,
             String socSecNumber, double rate)
